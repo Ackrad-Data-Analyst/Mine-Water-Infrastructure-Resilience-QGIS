@@ -1,0 +1,15 @@
+[general]
+name=Mine Water & Infrastructure Resilience
+description=Engineering-grade mine water, terrain, facility exposure, transport crossing risk, global data acquisition, QA and auditable QGIS outputs.
+version=1.0.0
+qgisMinimumVersion=3.44
+author=Engineering GIS Toolkit Contributors
+email=
+about=Boundary-driven mine resilience screening with automatic or authoritative inputs. Produces drainage, catchments, ranked transport crossings, facility exposure, reports and provenance. Engineering review is mandatory; the plugin does not issue design approval.
+category=Raster
+hasProcessingProvider=yes
+experimental=True
+deprecated=False
+homepage=
+repository=
+tracker=
