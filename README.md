@@ -1,6 +1,6 @@
 # Mine Water & Infrastructure Resilience — QGIS
 
-**Built by Ackrad Shimwense**
+**Built by Ackrad Seth Chisale**
 
 This QGIS plugin helps an engineering team move from “we have a mine boundary and several GIS layers” to a ranked, auditable list of drainage and infrastructure concerns. It combines terrain-derived drainage with haul roads, crossings, facilities, receptors and user-controlled consequence scores.
 
@@ -161,4 +161,3 @@ The repository currently passes **13 automated tests** covering acquisition beha
 ## Engineering boundary
 
 The output is a screening product. Final decisions require verified survey, mine water balance, approved rainfall, calibrated hydrologic/hydraulic models, field inspection, geotechnical and environmental context, and sign-off by the responsible engineers.
-
